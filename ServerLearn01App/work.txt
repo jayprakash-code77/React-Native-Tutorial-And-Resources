@@ -1,0 +1,12 @@
+1. Login -- Done
+2. Sugnup -- Done
+
+3. Display user details dynamically 
+
+3.a init Data for demo.
+3.b Product Model
+3.c Product Demo Data push
+3.d Product Demo Data display
+
+4. State Management *************
+5. Protected Routes *************

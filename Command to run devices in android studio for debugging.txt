@@ -1,0 +1,16 @@
+To display all devices :- adb devices
+
+Start Metro Bundler :- npx react-native start
+
+
+
+
+If your device doesn't appear:- Try this =>
+
+-Changing the USB connection mode to File Transfer (MTP).
+
+-Restarting adb:
+		-adb kill-server
+		-adb start-server
+
+
